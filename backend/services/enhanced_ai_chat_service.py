@@ -524,8 +524,7 @@ class GoogleSearchService:
     def __init__(self):
         # Your two Google Custom Search API keys
         self.api_keys = [
-            "AIzaSyA3QPrtjRR-1CwQTOTaSaq5xLepLA_0z3k",
-            "AIzaSyDYmkSBnM8t88ZdjtAZP8kXqV6aMuNdV3w"
+           
         ]
         self.current_key_index = 0
         
